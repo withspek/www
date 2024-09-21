@@ -1,40 +1,14 @@
-# Welcome to Remix!
+<div align="center">
+<picture>
+    <img src="./public/logo.png" width="128px">
+</picture>
+</div>
+<h1 align="center">
+Spek Website
+</h1>
 
-- 📖 [Remix docs](https://remix.run/docs)
+This repository contains the source code for the Spek Website. We are thrilled to welcome you to our community. Before you start, please read this document to understand how you can contribute to this project.
 
-## Development
+Spek's website is built with [Remix](https://remix.run/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com/).
 
-Run the dev server:
-
-```shellscript
-npm run dev
-```
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+If you are interested in contributing to this project, please read the [Contributing Guidelines](./CONTRIBUTING.md).
